@@ -1,5 +1,5 @@
 ### Hi there 👋
+- 👯 Project Manager and Quality Assurance intern in Jairosoft
 - 🔭 I’m currently working on my web development skills
-- 🌱 I’m plan to learn NextJS
-- 👯 I’m looking to collaborate on any data analytics projects (i'm free for this, mwehe)
+- 🌱 Currently undergoing my project management course online.
 - ⚡ Hobbies: reading (not a nerd), writing (lovecraftian-horror, scifi, fantasy-adventure), watching YT vids, playing Star Rail, drinking coffee 
