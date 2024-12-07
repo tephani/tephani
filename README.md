@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I'm a **Computer Science student** and an aspiring
 ---
 
 ## 📫 Let's Connect!
-- 🌐 **Website**: [@tephani](https://tephani.vercel.com)
+- 🌐 **Website**: [@tephani](https://tephani.vercel.app)
 - 💼 **LinkedIn**: [@tephani](https://linkedin.com/in/tephani)
 - 📧 **Email**: [s.palero.526878@umindanao.edu.ph](mailto:s.palero.526878@umindanao.edu.ph)
 
